@@ -1,0 +1,2 @@
+# Stdlib only — no third-party packages required.
+# Python >= 3.10 and git on PATH.
